@@ -13,14 +13,22 @@
     <ExternalConsole>true</ExternalConsole>
   </PropertyGroup>
   <ItemGroup>
+    <PackageReference Include="Blazored.LocalStorage" Version="4.4.0" />
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly" Version="7.0.10" />
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="7.0.10" PrivateAssets="all" />
   </ItemGroup>
 
   <ItemGroup>
     <Content Remove="wwwroot\.gitignore" />
+    <Content Remove="Pages\ECommerce\ProductDetails.razor" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Pages\ECommerce\" />
   </ItemGroup>
   <ItemGroup>
     <None Include="wwwroot\.gitignore" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Pages\ECommerce\" />
   </ItemGroup>
 </Project>

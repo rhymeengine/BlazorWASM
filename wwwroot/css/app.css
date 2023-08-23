@@ -1,43 +1,55 @@
-﻿@import url('open-iconic/font/css/open-iconic-bootstrap.min.css');
+﻿@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('open-iconic/font/css/open-iconic-bootstrap.min.css');
 
+/* Brand Colors */
+:root {
+    --primary-color: #e5d9ba;
+    --secondary-color: #4e0743;
+    --accent-color: #E1BEE7;
+    --background-color: #201a1a;
+    --text-color: #ffffff;
+  }
+
+/* General Styles */
 html, body {
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    background-color: #211402;
-    color: #f6dcf8;
+    font-family: 'Open Sans', sans-serif;
+    background-color: var(--background-color);
+    color: var(--text-color);
 }
 
 h1:focus {
     outline: none;
 }
 
-a, .btn-link {
-    color: #820271;
+/* Links and Primary Buttons */
+a, .btn-link, .btn-primary {
+    color: var(--secondary-color);
+    border-color: var(--primary-color);
 }
 
-.btn-primary {
-    color: #fff;
-    background-color: #8f0383;
-    border-color: #6c18ac;
+.btn-primary:hover {
+    background-color: var(--secondary-color);
+    border-color: var(--secondary-color);
 }
 
+/* Focus Style for Buttons and Form Controls */
 .btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
-    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem var(--primary-color);
 }
 
+/* Content Padding */
 .content {
     padding-top: 1.1rem;
 }
 
+/* Validation Styles */
 .valid.modified:not([type=checkbox]) {
-    outline: 1px solid #26b050;
+    outline: 1px solid var(--secondary-color);
 }
 
-.invalid {
-    outline: 1px solid red;
-}
-
-.validation-message {
+.invalid, .validation-message {
     color: red;
+    outline: 1px solid red;
 }
 
 #blazor-error-ui {

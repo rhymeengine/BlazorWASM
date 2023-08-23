@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "evXPZWy/PAbSziBAUeRKY4iOqBx5Jidv3RZ2lilkjHjFvj9kfKKm65C6rXOi5RCggLHvIdoBN4NHKt07Egk6uA==",
+  "dgSpecHash": "s+/lz+rOYvyiOGoaDBdk7XUCnPnWFYL3woXx3ntwSJ70Uq1HXf6b00gHsoK9D2OsA0WoaazP76ffjveFqT8NHA==",
   "success": true,
   "projectFilePath": "/Users/fintechai/Projects/RhymeEngine.V1/RhymeEngine.V1.csproj",
   "expectedPackageFiles": [
+    "/Users/fintechai/.nuget/packages/blazored.localstorage/4.4.0/blazored.localstorage.4.4.0.nupkg.sha512",
     "/Users/fintechai/.nuget/packages/microsoft.aspnetcore.authorization/7.0.10/microsoft.aspnetcore.authorization.7.0.10.nupkg.sha512",
     "/Users/fintechai/.nuget/packages/microsoft.aspnetcore.components/7.0.10/microsoft.aspnetcore.components.7.0.10.nupkg.sha512",
     "/Users/fintechai/.nuget/packages/microsoft.aspnetcore.components.analyzers/7.0.10/microsoft.aspnetcore.components.analyzers.7.0.10.nupkg.sha512",

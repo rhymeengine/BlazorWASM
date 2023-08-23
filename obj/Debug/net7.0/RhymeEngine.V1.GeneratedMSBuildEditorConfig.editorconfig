@@ -92,6 +92,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0xvZ2luRGlzcGxheS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/fintechai/Projects/RhymeEngine.V1/Shared/ShoppingCart.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1Nob3BwaW5nQ2FydC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/fintechai/Projects/RhymeEngine.V1/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 

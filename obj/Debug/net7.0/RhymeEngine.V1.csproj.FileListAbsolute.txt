@@ -6,6 +6,7 @@
 /Users/fintechai/Projects/RhymeEngine.V1/obj/Debug/net7.0/RhymeEngine.V1.MvcApplicationPartsAssemblyInfo.cache
 /Users/fintechai/Projects/RhymeEngine.V1/bin/Debug/net7.0/wwwroot/_framework/blazor.boot.json
 /Users/fintechai/Projects/RhymeEngine.V1/bin/Debug/net7.0/wwwroot/_framework/blazor.webassembly.js
+/Users/fintechai/Projects/RhymeEngine.V1/bin/Debug/net7.0/wwwroot/_framework/Blazored.LocalStorage.dll
 /Users/fintechai/Projects/RhymeEngine.V1/bin/Debug/net7.0/wwwroot/_framework/dotnet.7.0.10.3anylwnaxk.js
 /Users/fintechai/Projects/RhymeEngine.V1/bin/Debug/net7.0/wwwroot/_framework/dotnet.timezones.blat
 /Users/fintechai/Projects/RhymeEngine.V1/bin/Debug/net7.0/wwwroot/_framework/dotnet.wasm
@@ -344,6 +345,7 @@
 /Users/fintechai/Projects/RhymeEngine.V1/bin/Debug/net7.0/wwwroot/_framework/System.Threading.ThreadPool.dll.gz
 /Users/fintechai/Projects/RhymeEngine.V1/bin/Debug/net7.0/wwwroot/_framework/System.Runtime.CompilerServices.Unsafe.dll.gz
 /Users/fintechai/Projects/RhymeEngine.V1/bin/Debug/net7.0/wwwroot/_framework/System.Buffers.dll.gz
+/Users/fintechai/Projects/RhymeEngine.V1/bin/Debug/net7.0/wwwroot/_framework/Blazored.LocalStorage.dll.gz
 /Users/fintechai/Projects/RhymeEngine.V1/bin/Debug/net7.0/wwwroot/_framework/System.Diagnostics.FileVersionInfo.dll.gz
 /Users/fintechai/Projects/RhymeEngine.V1/bin/Debug/net7.0/wwwroot/_framework/System.dll.gz
 /Users/fintechai/Projects/RhymeEngine.V1/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Metadata.dll.gz
@@ -410,6 +412,7 @@
 /Users/fintechai/Projects/RhymeEngine.V1/bin/Debug/net7.0/RhymeEngine.V1.staticwebassets.runtime.json
 /Users/fintechai/Projects/RhymeEngine.V1/bin/Debug/net7.0/RhymeEngine.V1.dll
 /Users/fintechai/Projects/RhymeEngine.V1/bin/Debug/net7.0/RhymeEngine.V1.pdb
+/Users/fintechai/Projects/RhymeEngine.V1/bin/Debug/net7.0/Blazored.LocalStorage.dll
 /Users/fintechai/Projects/RhymeEngine.V1/bin/Debug/net7.0/Microsoft.AspNetCore.Authorization.dll
 /Users/fintechai/Projects/RhymeEngine.V1/bin/Debug/net7.0/Microsoft.AspNetCore.Components.dll
 /Users/fintechai/Projects/RhymeEngine.V1/bin/Debug/net7.0/Microsoft.AspNetCore.Components.Forms.dll
@@ -608,6 +611,7 @@
 /Users/fintechai/Projects/RhymeEngine.V1/bin/Debug/net7.0/icudt_CJK.dat
 /Users/fintechai/Projects/RhymeEngine.V1/bin/Debug/net7.0/icudt_EFIGS.dat
 /Users/fintechai/Projects/RhymeEngine.V1/bin/Debug/net7.0/icudt_no_CJK.dat
+/Users/fintechai/Projects/RhymeEngine.V1/obj/Debug/net7.0/build-gz/RhGloaDZ.gz
 /Users/fintechai/Projects/RhymeEngine.V1/obj/Debug/net7.0/build-gz/Aec8v8wo.gz
 /Users/fintechai/Projects/RhymeEngine.V1/obj/Debug/net7.0/build-gz/jzhApD2P.gz
 /Users/fintechai/Projects/RhymeEngine.V1/obj/Debug/net7.0/build-gz/9ZkGt6p6.gz

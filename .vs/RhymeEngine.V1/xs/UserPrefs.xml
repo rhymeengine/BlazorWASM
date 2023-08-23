@@ -4,17 +4,21 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="_Imports.razor">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="_Imports.razor" Line="12" Column="24" />
-      <File FileName="App.razor" Line="3" Column="66" />
+      <File FileName="App.razor" Line="15" Column="10" />
+      <File FileName="Program.cs" Line="11" Column="29" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="RhymeEngine.V1">
-            <Node name="RhymeEngine.V1" selected="True">
-              <Node name="Shared" expanded="True" />
+            <Node name="RhymeEngine.V1">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>

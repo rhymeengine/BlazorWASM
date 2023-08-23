@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1cqw6g03EU8/al4pw4AvwP7cfNirfF45l4dk6dZAlMs=",
+  "Hash": "5/pVKzJyFnTj+esVP9ptyesz6zqPq9PI/UJ0qYHFyzI=",
   "Source": "RhymeEngine.V1",
   "BasePath": "/",
   "Mode": "Root",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/fintechai/.nuget/packages/microsoft.aspnetcore.components.webassembly/7.0.10/build/net7.0/blazor.webassembly.js"
+    },
+    {
+      "Identity": "/Users/fintechai/Projects/RhymeEngine.V1/bin/Debug/net7.0/wwwroot/_framework/Blazored.LocalStorage.dll",
+      "SourceId": "RhymeEngine.V1",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/fintechai/Projects/RhymeEngine.V1/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Blazored.LocalStorage.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/fintechai/.nuget/packages/blazored.localstorage/4.4.0/lib/net7.0/Blazored.LocalStorage.dll"
     },
     {
       "Identity": "/Users/fintechai/Projects/RhymeEngine.V1/bin/Debug/net7.0/wwwroot/_framework/dotnet.7.0.10.3anylwnaxk.js",
@@ -5795,6 +5812,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/fintechai/Projects/RhymeEngine.V1/bin/Debug/net7.0/wwwroot/_framework/System.Buffers.dll"
+    },
+    {
+      "Identity": "/Users/fintechai/Projects/RhymeEngine.V1/obj/Debug/net7.0/build-gz/RhGloaDZ.gz",
+      "SourceId": "RhymeEngine.V1",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/fintechai/Projects/RhymeEngine.V1/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Blazored.LocalStorage.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/fintechai/Projects/RhymeEngine.V1/bin/Debug/net7.0/wwwroot/_framework/Blazored.LocalStorage.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/fintechai/Projects/RhymeEngine.V1/bin/Debug/net7.0/wwwroot/_framework/Blazored.LocalStorage.dll"
     },
     {
       "Identity": "/Users/fintechai/Projects/RhymeEngine.V1/obj/Debug/net7.0/build-gz/Ri62ehhD.gz",
