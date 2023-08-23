@@ -199,13 +199,13 @@
       "mscorlib.dll": "sha256-Xo3wdLenBZ41X73hGjkWTbEQZDKcQsnPFtlkePUxLY0=",
       "netstandard.dll": "sha256-qjqaAEP3hdLnU\/TnoCd8HaSa+0ruV1TpdaB2GUujGMw=",
       "System.Private.CoreLib.dll": "sha256-\/7uQ+eNo9u3H1mpgMko4D3tKZHeGRfsRjna0Dqsu62k=",
-      "RhymeEngine.V1.dll": "sha256-qhbgcJCNt+usImC0XaT+GwTtS0afBrHlgokpXe4LCZ0="
+      "RhymeEngine.V1.dll": "sha256-++kW\/pJ073dEOT1Uw7NS7D9tudV4do3bcHVhTIcbCNo="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "RhymeEngine.V1.pdb": "sha256-iKkrOWLMSNmRDnStn7Smo3y8\/F61IbQEM+mUwui10sk="
+      "RhymeEngine.V1.pdb": "sha256-FcUituWut+06MCgTzHbJweiWB3A9MTa9n9fe4+G63Ak="
     },
     "runtime": {
       "dotnet.7.0.10.3anylwnaxk.js": "sha256-qJB30QURoyH3y3WyayHu6nMFIx2XNOkXCez7tagGpvE=",
