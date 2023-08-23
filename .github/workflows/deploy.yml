@@ -1,0 +1,31 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main # Change this to your branch name if it's not main
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Setup .NET Core
+      uses: actions/setup-dotnet@v1
+      with:
+        dotnet-version: 5.0.x # Modify this to match your .NET version
+
+    - name: Build and Publish
+      run: |
+        dotnet publish -c Release -o out
+
+    - name: Deploy to GitHub Pages
+      uses: JamesIves/github-pages-deploy-action@4.1.0
+      with:
+        branch: gh-pages # Target branch for GitHub Pages
+        folder: out/wwwroot # Folder containing your built app
+        clean: true
+        SINGLE_COMMIT: true # Keeps commit history clean
