@@ -9,8 +9,12 @@ main[b-3gpa3n6m4c] {
     flex: 1;
 }
 
+.login[b-3gpa3n6m4c] {
+    background-image: linear-gradient(180deg, rgb(230, 221, 210) 0%, #b3aa9f 70%);
+}
+
 .sidebar[b-3gpa3n6m4c] {
-    background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
+    background-image: linear-gradient(180deg, rgb(117, 73, 105) 0%, #2a1904 70%);
 }
 
 .top-row[b-3gpa3n6m4c] {
