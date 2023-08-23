@@ -4,21 +4,18 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Shared/ShoppingCart.razor">
     <Files>
-      <File FileName="App.razor" Line="15" Column="10" />
-      <File FileName="Program.cs" Line="11" Column="29" />
+      <File FileName="Shared/ShoppingCart.razor" Line="13" Column="4" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="RhymeEngine.V1">
             <Node name="RhymeEngine.V1">
-              <Node name="Dependencies" expanded="True">
-                <Node name="FrameworkReferences" expanded="True" />
-                <Node name="PackageDependencies" expanded="True" />
+              <Node name="Shared" expanded="True">
+                <Node name="ShoppingCart.razor" selected="True" />
               </Node>
-              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
