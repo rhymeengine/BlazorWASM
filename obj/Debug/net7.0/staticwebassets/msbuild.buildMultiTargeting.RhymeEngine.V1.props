@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/RhymeEngine.V1.props" />
+</Project>

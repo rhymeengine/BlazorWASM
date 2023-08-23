@@ -1,0 +1,109 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = RhymeEngine.V1
+build_property.RootNamespace = RhymeEngine.V1
+build_property.ProjectDir = /Users/fintechai/Projects/RhymeEngine.V1/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/fintechai/Projects/RhymeEngine.V1
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/fintechai/Projects/RhymeEngine.V1/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fintechai/Projects/RhymeEngine.V1/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fintechai/Projects/RhymeEngine.V1/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fintechai/Projects/RhymeEngine.V1/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fintechai/Projects/RhymeEngine.V1/Pages/Portfolio/Portfolio.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUG9ydGZvbGlvL1BvcnRmb2xpby5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fintechai/Projects/RhymeEngine.V1/Pages/Pricing.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpY2luZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fintechai/Projects/RhymeEngine.V1/Pages/RhymeEngine/Artwork.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUmh5bWVFbmdpbmUvQXJ0d29yay5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fintechai/Projects/RhymeEngine.V1/Pages/RhymeEngine/Brand.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUmh5bWVFbmdpbmUvQnJhbmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fintechai/Projects/RhymeEngine.V1/Pages/RhymeEngine/Copyright.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUmh5bWVFbmdpbmUvQ29weXJpZ2h0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fintechai/Projects/RhymeEngine.V1/Pages/RhymeEngine/Distribution.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUmh5bWVFbmdpbmUvRGlzdHJpYnV0aW9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fintechai/Projects/RhymeEngine.V1/Pages/RhymeEngine/Events.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUmh5bWVFbmdpbmUvRXZlbnRzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fintechai/Projects/RhymeEngine.V1/Pages/RhymeEngine/Legal.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUmh5bWVFbmdpbmUvTGVnYWwucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fintechai/Projects/RhymeEngine.V1/Pages/RhymeEngine/Metadata.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUmh5bWVFbmdpbmUvTWV0YWRhdGEucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fintechai/Projects/RhymeEngine.V1/Pages/RhymeEngine/Performance.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUmh5bWVFbmdpbmUvUGVyZm9ybWFuY2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fintechai/Projects/RhymeEngine.V1/Pages/RhymeEngine/Production.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUmh5bWVFbmdpbmUvUHJvZHVjdGlvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fintechai/Projects/RhymeEngine.V1/Pages/RhymeEngine/Publishing.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUmh5bWVFbmdpbmUvUHVibGlzaGluZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fintechai/Projects/RhymeEngine.V1/Pages/RhymeEngine/SongWriting.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUmh5bWVFbmdpbmUvU29uZ1dyaXRpbmcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fintechai/Projects/RhymeEngine.V1/Pages/Survey.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU3VydmV5LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fintechai/Projects/RhymeEngine.V1/Shared/LoginDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0xvZ2luRGlzcGxheS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fintechai/Projects/RhymeEngine.V1/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fintechai/Projects/RhymeEngine.V1/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fintechai/Projects/RhymeEngine.V1/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-3gpa3n6m4c
+
+[/Users/fintechai/Projects/RhymeEngine.V1/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-p3dktxipyx
